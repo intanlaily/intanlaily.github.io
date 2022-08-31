@@ -1,0 +1,70 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 120px;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #6D7993;
+}
+
+.jumbotron p i {
+	color: #6D7993;
+}
+
+
+.about h4 {
+	margin-top: 40px;
+	color: #6D7993;
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #96858F;
+}
+
+section {
+	min-height: 600px;
+}
+
+.portofolio {
+	background-color: #D5D5D5;
+}
+
+.contact {
+	min-height: 800px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	min-height: 120px;
+	background-color: #96858F;
+	padding-top: 20px;
+}
+
+footer p {
+	color: #D5D5D5;
+	font-size: 0.9em;
+}
+
+footer p a {
+	color: #8FD8D2;
+}
+
+footer p i {
+	color: #DCB239;
+}
+
+
+
+
+
+
+
+
+
